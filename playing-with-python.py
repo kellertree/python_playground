@@ -11,4 +11,4 @@ print(learning_goals)
 for goal in learning_goals:
         print(f"My goal is to learn {learning_goals}.")
 
-pritn("I have already made considerable progress. It would be even more beneficial if someone would hire me though.")
+pritn("I have already made considerable progress. It would be even more beneficial if someone would hire me for a related position though.")
