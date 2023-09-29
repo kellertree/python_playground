@@ -9,6 +9,6 @@ learning_goals = ["programming", "engineering", "science", "data anaytics", "art
 print(learning_goals)
 
 for goal in learning_goals:
-        print(f"My goal is to learn {learning_goals}.")
+        print(f"My goal is to learn {goal}.")
 
-pritn("I have already made considerable progress. It would be even more beneficial if someone would hire me for a related position though.")
+print("I have already made considerable progress. It would be even more beneficial if someone would hire me for a related position though.")
